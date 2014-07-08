@@ -14,6 +14,8 @@ html {
     border: 5px ridge red;
     border-radius: 10px;
     margin: -25px auto 15px auto;
+    margin-left: auto;
+    margin-right: auto;
     padding-top: 10px;
 }
 
