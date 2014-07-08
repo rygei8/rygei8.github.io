@@ -13,7 +13,7 @@ html {
     text-shadow: 3px 3px black;
     border: 5px ridge red;
     border-radius: 10px;
-    margin: -25px 30% 15px 30%;
+    margin: -25px 25% 15px 25%;
     padding-top: 10px;
 }
 
@@ -28,7 +28,7 @@ html {
     font-size: 1.2em;
     color: white;
     text-shadow: 1px 1px black;
-    height: 100%;
+    height: 90%;
 }
 
 #sidebar ul {
