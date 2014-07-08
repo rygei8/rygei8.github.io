@@ -55,7 +55,7 @@ html {
 }
 
 #main {
-    position: absolute;
+    position: relative;
     background: url(../images/graydiagonal.png);
     border: 3px ridge black;
     width: 75%;
