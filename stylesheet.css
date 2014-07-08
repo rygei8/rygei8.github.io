@@ -21,27 +21,26 @@ html {
     color: white;
 }
 
-ul {
+#sidebar ul {
     list-style: none;
-    text-align: left;
 }
 
-a {
+#sidebar a {
     text-decoration: none;
 }
 
-a:link {
+#sidebar a:link {
     color: white;
 }
 
-a:visited {
+#sidebar a:visited {
     color: red;
 }
 
-a:hover {
+#sidebar a:hover {
     color: blue;
 }
 
-a:active {
+#sidebar a:active {
     color: yellow;
 }
