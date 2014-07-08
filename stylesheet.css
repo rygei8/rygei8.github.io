@@ -12,6 +12,7 @@ html {
     text-shadow: 3px 3px black;
     border: 3px ridge red;
     border-radius: 10px;
+    margin: auto;
     margin-top: -25px;
 }
 
