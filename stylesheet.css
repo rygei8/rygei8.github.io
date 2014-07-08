@@ -21,5 +21,6 @@ html {
 }
 
 ul {
-    list-style-type: none;
+    list-style: none inside;
+    text-align: left;
 }
