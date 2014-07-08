@@ -10,6 +10,9 @@ html {
     text-align: center;
     color: white;
     text-shadow: 3px 3px black;
+    border: 3px ridge red;
+    border-radius: 10px;
+    padding-top: -20px;
 }
 
 #sidebar {
@@ -19,7 +22,7 @@ html {
     border-radius: 5px;
     font-size: 1.2em;
     color: white;
-    text-shadow: 2px 2px black;
+    text-shadow: 1px 1px black;
     height: 100%;
 }
 
