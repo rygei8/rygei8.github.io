@@ -12,7 +12,7 @@ html {
     text-shadow: 3px 3px black;
     border: 3px ridge red;
     border-radius: 10px;
-    padding-top: -20px;
+    padding-top: 20px;
 }
 
 #sidebar {
