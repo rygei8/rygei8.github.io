@@ -55,6 +55,7 @@ html {
 }
 
 #main {
+    background: url(../images/graydiagonal.png);
     border: 3px solid black;
     width: 75%;
     height: 1000px;
