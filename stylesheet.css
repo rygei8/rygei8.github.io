@@ -13,8 +13,7 @@ html {
     text-shadow: 3px 3px black;
     border: 5px ridge red;
     border-radius: 10px;
-    /*margin: -25px 20% 15px 20%;*/
-    margin: auto;
+    margin: -25px auto 15px auto;
     padding-top: 10px;
 }
 
@@ -30,7 +29,7 @@ html {
     color: white;
     text-shadow: 1px 1px black;
     top: 25px;
-    bottom: 75px;
+    bottom: 85px;
 }
 
 #sidebar ul {
