@@ -12,8 +12,9 @@ html {
     text-shadow: 3px 3px black;
     border: 5px ridge red;
     border-radius: 10px;
-    margin: -25px auto 15px auto;
+    margin: -25px 35% 15px 35%;
     padding-top: 10px;
+    z-index: 100;
 }
 
 #sidebar {
