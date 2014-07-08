@@ -11,7 +11,7 @@ html {
     text-align: center;
     color: white;
     text-shadow: 2px 2px gray;
-    border: 5px ridge red;
+    border: 5px ridge black;
     border-radius: 10px;
     margin: -25px 30% 15px 30%;
     padding-top: 10px;
@@ -23,7 +23,7 @@ html {
     position: absolute;
     float: left;
     padding: 20px;
-    border: 3px ridge red;
+    border: 3px ridge black;
     border-radius: 5px;
     margin-left: -25px;
     padding-left: 25px;
