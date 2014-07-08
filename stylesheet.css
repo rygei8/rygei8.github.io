@@ -1,6 +1,6 @@
 /*  Stylesheet for Personal Webpage
     Author: Ryan Geiger */
     
-* {
+html {
     background: url(.../images/greybgtexture.png);
 }
