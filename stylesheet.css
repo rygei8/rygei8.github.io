@@ -29,12 +29,8 @@ html {
     text-decoration: none;
 }
 
-#sidebar a:link {
+#sidebar a:link, a:visited {
     color: white;
-}
-
-#sidebar a:visited {
-    color: red;
 }
 
 #sidebar a:hover {
@@ -43,4 +39,9 @@ html {
 
 #sidebar a:active {
     color: yellow;
+}
+
+#footer {
+    position: fixed;
+    bottom: 20px;
 }
