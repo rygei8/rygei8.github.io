@@ -55,14 +55,14 @@ html {
 }
 
 #main {
-    position: absolute;
+    position: relative;
     background: url(../images/graydiagonal.png);
     border: 3px ridge black;
     width: 75%;
     height: 500px;
     margin: -200px auto 0px auto;
-    top: -100px;
-    bottom: -100px;
+    top: -10px;
+    bottom: 5px;
     z-index: -1;
 }
 
