@@ -10,7 +10,7 @@ html {
     background: url(../images/redbgtexture.png);
     text-align: center;
     color: white;
-    text-shadow: 3px 3px black;
+    text-shadow: 2px 2px black;
     border: 5px ridge red;
     border-radius: 10px;
     margin: -25px 30% 15px 30%;
@@ -29,7 +29,6 @@ html {
     padding-left: 25px;
     font-size: 1.2em;
     color: white;
-    text-shadow: 1px 1px black;
     top: 25px;
     bottom: 85px;
 }
