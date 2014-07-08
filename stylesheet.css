@@ -55,7 +55,9 @@ html {
 #main {
     border: 3px solid black;
     width: 75%;
-    height: 100%;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #footer {
