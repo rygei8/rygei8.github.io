@@ -18,6 +18,7 @@ html {
 }
 
 #sidebar {
+    position: absolute;
     float: left;
     padding: 20px;
     border: 3px ridge red;
