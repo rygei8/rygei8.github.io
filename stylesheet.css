@@ -7,6 +7,7 @@ html {
 }
 
 #title {
+    position: absolute;
     text-align: center;
     color: white;
     text-shadow: 3px 3px black;
