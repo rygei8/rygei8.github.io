@@ -30,7 +30,7 @@ html {
 }
 
 #sidebar a:link, a:visited {
-    color: white;
+    color: red;
 }
 
 #sidebar a:hover {
@@ -43,5 +43,6 @@ html {
 
 #footer {
     position: fixed;
-    bottom: 20px;
+    bottom: 10px;
+    left: 10px;
 }
