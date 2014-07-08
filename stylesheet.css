@@ -58,6 +58,7 @@ html {
     position: relative;
     background: url(../images/graydiagonal.png);
     border: 3px ridge black;
+    border-radius: 5px;
     width: 75%;
     height: 770px;
     margin-left: auto;
@@ -71,8 +72,8 @@ html {
     position: fixed;
     bottom: 10px;
     left: 10px;
-    border: 3px solid black;
-    border-radius: 3px;
+    border: 3px ridge black;
+    border-radius: 5px;
     padding-left: 10px;
     padding-right: 10px;
     z-index: 100;
