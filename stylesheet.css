@@ -15,7 +15,7 @@ html {
     border-radius: 10px;
     margin: -25px 30% 15px 30%;
     padding-top: 10px;
-    z-index: 100;
+    z-index: -100;
 }
 
 #sidebar {
