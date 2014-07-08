@@ -69,9 +69,7 @@ html {
 
 #footer {
     background: url(../images/redbgtexture.png);
-    position: fixed;
-    bottom: 10px;
-    left: 10px;
+    clear: both;
     border: 3px ridge black;
     border-radius: 5px;
     padding-left: 10px;
