@@ -57,11 +57,11 @@ html {
 #main {
     position: relative;
     background: url(../images/graydiagonal.png);
-    border: 3px solid black;
+    border: 3px ridge black;
     width: 75%;
     height: 500px;
     margin: -200px auto 0px auto;
-    padding-bottom: 500px;
+    bottom: -100px;
     z-index: -1;
 }
 
