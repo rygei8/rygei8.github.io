@@ -60,7 +60,8 @@ html {
     border: 3px solid black;
     width: 75%;
     height: 500px;
-    margin: -200px auto -10000px auto;
+    margin: -200px auto 0px auto;
+    padding-bottom: 500px;
     z-index: -1;
 }
 
